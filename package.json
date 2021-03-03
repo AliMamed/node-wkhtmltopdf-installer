@@ -1,21 +1,20 @@
 {
-  "name": "wkhtmltopdf-installer",
+  "name": "@alimamed/wkhtmltopdf-installer",
   "version": "0.3.2",
   "keywords": [
     "wkhtmltopdf",
     "installer"
   ],
   "description": "Downloads and installs wkhtmltopdf",
-  "homepage": "https://github.com/pofider/node-wkhtmltopdf-installer",
+  "homepage": "https://github.com/alimamed/node-wkhtmltopdf-installer",
   "repository": {
     "type": "git",
-    "url": "git://github.com/pofider/node-wkhtmltopdf-installer.git"
+    "url": "git://github.com/alimamed/node-wkhtmltopdf-installer.git"
   },
   "license": "MIT",
   "author": {
-    "name": "Jan Blaha",
-    "email": "jan.blaha@hotmail.com",
-    "url": "http://janblaha.net"
+    "name": "Ali Mamed",
+    "email": "alimamed@gmail.com"
   },
   "main": "index.js",
   "bin": {
@@ -26,12 +25,9 @@
     "test": "nodeunit test/tests.js"
   },
   "dependencies": {
-    "bin-wrapper": "3.0.2",
-    "log-symbols": "1.0.2",
-    "which": "1.2.1"
-  },
-  "devDependencies": {
-    "nodeunit": "~0.9.1"
+    "bin-wrapper": "4.1.0",
+    "log-symbols": "4.0.0",
+    "which": "2.0.2"
   },
   "files": [
     "bin",

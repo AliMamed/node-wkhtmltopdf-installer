@@ -1,4 +1,6 @@
 # wkhtmltopdf-installer
+_[Original repo](https://github.com/pofider/node-wkhtmltopdf-installer). This fork is created to fix `npm audit` issues_
+
 [![NPM Version](http://img.shields.io/npm/v/wkhtmltopdf-installer.svg?style=flat-square)](https://npmjs.com/package/wkhtmltopdf-installer)
 [![License](http://img.shields.io/npm/l/wkhtmltopdf-installer.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 [![Build Status](https://travis-ci.org/pofider/node-wkhtmltopdf-installer.svg?branch=master)](https://travis-ci.org/pofider/node-wkhtmltopdf-installer)
